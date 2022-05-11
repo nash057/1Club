@@ -8,7 +8,7 @@
   }
 
   p {
-    @apply font-Fancy align-text-top text-center text-sm md:text-2xl ;
+    @apply font-Fancy align-text-top text-center text-sm md:text-2xl;
   }
 
   /* .WhatsApp {

@@ -1,3 +1,4 @@
+import AboutUs from "./AboutUs"
 import Banner from "./Banner"
 import EventList from "./EventList"
 import Partners from "./Partners"
@@ -8,6 +9,7 @@ function Section() {
         <Banner />
         <EventList />
         <Partners />
+        <AboutUs />
     </div>
   )
 }

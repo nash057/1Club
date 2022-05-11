@@ -6,6 +6,9 @@ module.exports = {
       Fancy: ['"Press Start 2P"', 'cursive'],
       Horror: ["'Rubik Wet Paint'", 'cursive']
     },
+    // screens: {
+    //   'xs': '460',
+    // },
     extend: {},
   },
   plugins: [],
